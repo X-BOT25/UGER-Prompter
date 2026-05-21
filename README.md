@@ -120,13 +120,3 @@ Edit `configs/config.json` to customize:
 - **Lightweight hints**: Natural language hints for prompt injection
 - **GRPO training**: Group-relative advantage estimation without critic network
 
-## Citation
-
-```bibtex
-@article{xue2025uger,
-  title={UGER-Prompter: Uncertainty-Gated Experience Retrieval for Chinese Polyphone Disambiguation},
-  author={Xue, Jianxin},
-  journal={Knowledge-Based Systems},
-  year={2025}
-}
-```
