@@ -1,0 +1,540 @@
+{"char": "万", "pinyins": ["wan4", "wan2"]}
+{"char": "与", "pinyins": ["yu3", "yu4"]}
+{"char": "丧", "pinyins": ["sang1", "sang4"]}
+{"char": "中", "pinyins": ["zhong1", "zhong4"]}
+{"char": "为", "pinyins": ["wei2", "wei4"]}
+{"char": "丽", "pinyins": ["li2", "li4"]}
+{"char": "么", "pinyins": ["me5", "mo2"]}
+{"char": "乐", "pinyins": ["le4", "yue4"]}
+{"char": "乘", "pinyins": ["cheng2", "sheng4"]}
+{"char": "了", "pinyins": ["le5", "liao3"]}
+{"char": "予", "pinyins": ["yu3", "yu2"]}
+{"char": "亟", "pinyins": ["ji2", "qi4"]}
+{"char": "亲", "pinyins": ["qin1", "qing4"]}
+{"char": "亹", "pinyins": ["wei3"]}
+{"char": "什", "pinyins": ["shen2", "shi2"]}
+{"char": "仆", "pinyins": ["pu2", "pu1"]}
+{"char": "仇", "pinyins": ["chou2", "qiu2"]}
+{"char": "仔", "pinyins": ["zai3", "zi3"]}
+{"char": "仡", "pinyins": ["ge1", "yi4"]}
+{"char": "令", "pinyins": ["ling4", "ling2"]}
+{"char": "价", "pinyins": ["jia4"]}
+{"char": "任", "pinyins": ["ren4", "ren2"]}
+{"char": "会", "pinyins": ["hui4", "kuai4"]}
+{"char": "传", "pinyins": ["chuan2", "zhuan4"]}
+{"char": "伯", "pinyins": ["bo2", "mo4"]}
+{"char": "估", "pinyins": ["gu1", "gu4"]}
+{"char": "伺", "pinyins": ["ci4", "si4"]}
+{"char": "似", "pinyins": ["si4", "shi4"]}
+{"char": "佃", "pinyins": ["dian4", "tian2"]}
+{"char": "佛", "pinyins": ["fo2", "fu2"]}
+{"char": "作", "pinyins": ["zuo4"]}
+{"char": "佣", "pinyins": ["yong1", "yong4"]}
+{"char": "侗", "pinyins": ["dong4", "tong2"]}
+{"char": "供", "pinyins": ["gong1", "gong4"]}
+{"char": "侧", "pinyins": ["ce4", "ze4"]}
+{"char": "便", "pinyins": ["bian4", "pian2"]}
+{"char": "俞", "pinyins": ["yu2", "shu4"]}
+{"char": "俟", "pinyins": ["qi2", "si4"]}
+{"char": "倒", "pinyins": ["dao3", "dao4"]}
+{"char": "倘", "pinyins": ["tang3"]}
+{"char": "假", "pinyins": ["jia3", "jia4"]}
+{"char": "偈", "pinyins": ["ji4"]}
+{"char": "偻", "pinyins": ["lou2", "lv3"]}
+{"char": "僮", "pinyins": ["tong2", "zhuang4"]}
+{"char": "儿", "pinyins": ["er2"]}
+{"char": "兴", "pinyins": ["xing1", "xing4"]}
+{"char": "冠", "pinyins": ["guan1", "guan4"]}
+{"char": "冯", "pinyins": ["feng2", "ping3"]}
+{"char": "冲", "pinyins": ["chong1", "chong4"]}
+{"char": "凉", "pinyins": ["liang2", "liang4"]}
+{"char": "几", "pinyins": ["ji1", "ji3"]}
+{"char": "凹", "pinyins": ["ao1", "wa1"]}
+{"char": "分", "pinyins": ["fen1", "fen4"]}
+{"char": "切", "pinyins": ["qie1", "qie4"]}
+{"char": "划", "pinyins": ["hua2", "hua4"]}
+{"char": "创", "pinyins": ["chuang1", "chuang4"]}
+{"char": "刨", "pinyins": ["bao4", "pao2"]}
+{"char": "别", "pinyins": ["bie2", "bian4"]}
+{"char": "刷", "pinyins": ["shua1"]}
+{"char": "刹", "pinyins": ["cha4", "sha1"]}
+{"char": "刺", "pinyins": ["ci4", "qi4"]}
+{"char": "削", "pinyins": ["xiao1", "xue1"]}
+{"char": "剌", "pinyins": ["la4"]}
+{"char": "剡", "pinyins": ["shan4", "yan3"]}
+{"char": "剥", "pinyins": ["bao1", "bo1"]}
+{"char": "剿", "pinyins": ["jiao3", "chao1"]}
+{"char": "劈", "pinyins": ["pi1", "pi3"]}
+{"char": "劲", "pinyins": ["jin4", "jing4"]}
+{"char": "勒", "pinyins": ["le4", "lei1"]}
+{"char": "勾", "pinyins": ["gou1", "gou4"]}
+{"char": "化", "pinyins": ["hua4", "e2"]}
+{"char": "匮", "pinyins": ["kui4", "gui4"]}
+{"char": "区", "pinyins": ["qu1", "kou4"]}
+{"char": "华", "pinyins": ["hua2", "kua1"]}
+{"char": "卒", "pinyins": ["zu2", "cu4"]}
+{"char": "单", "pinyins": ["dan1", "shan4"]}
+{"char": "卜", "pinyins": ["bu3", "bo5"]}
+{"char": "占", "pinyins": ["zhan4", "zhan1"]}
+{"char": "卡", "pinyins": ["ka3", "qia3"]}
+{"char": "卷", "pinyins": ["juan3", "juan4"]}
+{"char": "厂", "pinyins": ["chang3", "han3"]}
+{"char": "压", "pinyins": ["ya1", "ya4"]}
+{"char": "厦", "pinyins": ["sha4", "xia4"]}
+{"char": "参", "pinyins": ["can1", "shen1"]}
+{"char": "叉", "pinyins": ["cha1", "cha3"]}
+{"char": "发", "pinyins": ["fa1", "fa4"]}
+{"char": "句", "pinyins": ["gou1", "ju4"]}
+{"char": "叨", "pinyins": ["dao1", "tao1"]}
+{"char": "只", "pinyins": ["zhi1", "zhi3"]}
+{"char": "召", "pinyins": ["zhao4", "shao4"]}
+{"char": "可", "pinyins": ["ke3", "ke4"]}
+{"char": "叶", "pinyins": ["ye4", "xie2"]}
+{"char": "号", "pinyins": ["hao4", "hao2"]}
+{"char": "吁", "pinyins": ["yu4", "xu1"]}
+{"char": "合", "pinyins": ["he2", "ge3"]}
+{"char": "同", "pinyins": ["tong2", "tong4"]}
+{"char": "吐", "pinyins": ["tu3", "tu4"]}
+{"char": "吒", "pinyins": ["zha1", "zha4"]}
+{"char": "吓", "pinyins": ["he4", "xia4"]}
+{"char": "吗", "pinyins": ["ma2", "ma3", "ma5"]}
+{"char": "否", "pinyins": ["fou3", "pi3"]}
+{"char": "吧", "pinyins": ["ba1", "ba5"]}
+{"char": "吱", "pinyins": ["zhi1", "zi5"]}
+{"char": "呐", "pinyins": ["na4", "na5"]}
+{"char": "呗", "pinyins": ["bai4", "bei5"]}
+{"char": "呛", "pinyins": ["qiang4", "qiang1"]}
+{"char": "呢", "pinyins": ["ne5", "ni2"]}
+{"char": "呵", "pinyins": ["he1", "a1"]}
+{"char": "咋", "pinyins": ["za3", "ze2", "zha4"]}
+{"char": "和", "pinyins": ["he2", "huo4"]}
+{"char": "咧", "pinyins": ["lie1", "lie3"]}
+{"char": "咯", "pinyins": ["ge1", "luo4", "lo5"]}
+{"char": "咱", "pinyins": ["zan2"]}
+{"char": "咳", "pinyins": ["ke2", "hai2"]}
+{"char": "咽", "pinyins": ["yan1", "yan4", "ye4"]}
+{"char": "哄", "pinyins": ["hong1", "hong3", "hong4"]}
+{"char": "哇", "pinyins": ["wa1", "gui1"]}
+{"char": "哈", "pinyins": ["ha1", "ha3"]}
+{"char": "哑", "pinyins": ["ya3", "ya1"]}
+{"char": "哗", "pinyins": ["hua2", "hua1"]}
+{"char": "哟", "pinyins": ["yo5", "yo1"]}
+{"char": "哦", "pinyins": ["o4", "o5", "o2"]}
+{"char": "哩", "pinyins": ["li3", "li5"]}
+{"char": "哪", "pinyins": ["na3", "na5"]}
+{"char": "唉", "pinyins": ["ai1", "ai4"]}
+{"char": "唠", "pinyins": ["lao2", "lao4"]}
+{"char": "唷", "pinyins": ["yo1"]}
+{"char": "啊", "pinyins": ["a1", "a4", "a5"]}
+{"char": "啦", "pinyins": ["la1", "la5"]}
+{"char": "啰", "pinyins": ["luo1", "luo5"]}
+{"char": "喂", "pinyins": ["wei4", "wei2"]}
+{"char": "喇", "pinyins": ["la3", "la1"]}
+{"char": "喔", "pinyins": ["wo5"]}
+{"char": "喝", "pinyins": ["he1", "he4"]}
+{"char": "喳", "pinyins": ["zha1", "cha1"]}
+{"char": "喷", "pinyins": ["pen1", "fen4"]}
+{"char": "嗯", "pinyins": ["ng4", "ng3"]}
+{"char": "嘲", "pinyins": ["chao2", "zhao1"]}
+{"char": "噌", "pinyins": ["ceng1"]}
+{"char": "嚓", "pinyins": ["ca1", "cha1"]}
+{"char": "囤", "pinyins": ["dun4", "tun2"]}
+{"char": "圈", "pinyins": ["quan1", "juan4"]}
+{"char": "圜", "pinyins": ["huan2", "yuan2"]}
+{"char": "圩", "pinyins": ["wei2", "xu1"]}
+{"char": "地", "pinyins": ["de5", "di4"]}
+{"char": "场", "pinyins": ["chang3", "shang1"]}
+{"char": "坊", "pinyins": ["fang1", "fang2"]}
+{"char": "坻", "pinyins": ["di3", "zhi3"]}
+{"char": "垛", "pinyins": ["duo3", "duo4"]}
+{"char": "埋", "pinyins": ["mai2", "man2"]}
+{"char": "埔", "pinyins": ["pu3", "bu4"]}
+{"char": "堡", "pinyins": ["bao3"]}
+{"char": "塞", "pinyins": ["sai4", "se4", "sai1"]}
+{"char": "处", "pinyins": ["chu3", "chu4"]}
+{"char": "大", "pinyins": ["da4", "dai4"]}
+{"char": "夫", "pinyins": ["fu1", "da4"]}
+{"char": "夯", "pinyins": ["hang1", "ben4"]}
+{"char": "头", "pinyins": ["tou2", "tou5"]}
+{"char": "夹", "pinyins": ["jia1", "jia2"]}
+{"char": "奇", "pinyins": ["qi2", "ji1"]}
+{"char": "奔", "pinyins": ["ben1", "ben4"]}
+{"char": "奘", "pinyins": ["zang4", "zhuang3"]}
+{"char": "好", "pinyins": ["hao3", "hao4"]}
+{"char": "委", "pinyins": ["wei3", "wei1"]}
+{"char": "姥", "pinyins": ["lao3", "mu3"]}
+{"char": "娜", "pinyins": ["na4", "nuo2"]}
+{"char": "媛", "pinyins": ["yuan2", "yuan4"]}
+{"char": "子", "pinyins": ["zi3", "zi5"]}
+{"char": "孱", "pinyins": ["chan2"]}
+{"char": "宁", "pinyins": ["ning2", "zhu4"]}
+{"char": "宿", "pinyins": ["su4", "xiu4", "xiu3"]}
+{"char": "将", "pinyins": ["jiang1", "jiang4"]}
+{"char": "少", "pinyins": ["shao3", "shao4"]}
+{"char": "尺", "pinyins": ["chi3", "che3"]}
+{"char": "尽", "pinyins": ["jin3", "jin4"]}
+{"char": "尾", "pinyins": ["wei3", "yi3"]}
+{"char": "尿", "pinyins": ["niao4", "sui1"]}
+{"char": "屏", "pinyins": ["ping2", "bing3"]}
+{"char": "属", "pinyins": ["shu3", "zhu3"]}
+{"char": "屯", "pinyins": ["tun2", "zhun1"]}
+{"char": "峒", "pinyins": ["dong4", "tong2"]}
+{"char": "崴", "pinyins": ["wai3", "wei1"]}
+{"char": "嵌", "pinyins": ["qian4", "han3"]}
+{"char": "差", "pinyins": ["cha1", "cha4", "chai1"]}
+{"char": "帖", "pinyins": ["tie1", "tie3", "tie4"]}
+{"char": "幢", "pinyins": ["chuang2", "zhuang4"]}
+{"char": "干", "pinyins": ["gan1", "gan4"]}
+{"char": "广", "pinyins": ["guang3", "guang1"]}
+{"char": "应", "pinyins": ["ying1", "ying4"]}
+{"char": "底", "pinyins": ["di3", "de5"]}
+{"char": "度", "pinyins": ["du4", "duo2"]}
+{"char": "廑", "pinyins": ["jin3"]}
+{"char": "弄", "pinyins": ["long4", "nong4"]}
+{"char": "弹", "pinyins": ["dan4", "tan2"]}
+{"char": "强", "pinyins": ["qiang2", "qiang3"]}
+{"char": "当", "pinyins": ["dang1", "dang4"]}
+{"char": "待", "pinyins": ["dai4", "dai1"]}
+{"char": "得", "pinyins": ["de2", "de5"]}
+{"char": "徼", "pinyins": ["jiao4", "jiao3"]}
+{"char": "忒", "pinyins": ["te4"]}
+{"char": "恁", "pinyins": ["nen4", "nin2"]}
+{"char": "恶", "pinyins": ["e4", "wu4", "e3"]}
+{"char": "悄", "pinyins": ["qiao1", "qiao3"]}
+{"char": "悝", "pinyins": ["kui1"]}
+{"char": "戌", "pinyins": ["xu1"]}
+{"char": "扁", "pinyins": ["bian3", "bian1"]}
+{"char": "扇", "pinyins": ["shan4", "shan1"]}
+{"char": "扎", "pinyins": ["za1", "zha1", "zha2"]}
+{"char": "扒", "pinyins": ["ba1", "pa2"]}
+{"char": "打", "pinyins": ["da3", "da2"]}
+{"char": "扛", "pinyins": ["gang1", "kang2"]}
+{"char": "扫", "pinyins": ["sao3", "sao4"]}
+{"char": "扳", "pinyins": ["ban1"]}
+{"char": "把", "pinyins": ["ba3", "pa2"]}
+{"char": "折", "pinyins": ["zhe2", "zhe1"]}
+{"char": "抡", "pinyins": ["lun2", "lun1"]}
+{"char": "抢", "pinyins": ["qiang3", "cheng1"]}
+{"char": "抹", "pinyins": ["mo3", "ma1", "mo4"]}
+{"char": "拂", "pinyins": ["fu2", "bi4"]}
+{"char": "担", "pinyins": ["dan1", "dan4"]}
+{"char": "拓", "pinyins": ["tuo4", "ta4"]}
+{"char": "拗", "pinyins": ["ao4", "niu4"]}
+{"char": "拚", "pinyins": ["pin1", "pan4"]}
+{"char": "拧", "pinyins": ["ning2", "ning3"]}
+{"char": "拽", "pinyins": ["zhuai4", "ye4"]}
+{"char": "拾", "pinyins": ["shi2", "shixi2"]}
+{"char": "挑", "pinyins": ["tiao1", "tiao3"]}
+{"char": "挝", "pinyins": ["wo1", "zhua1"]}
+{"char": "挡", "pinyins": ["dang3"]}
+{"char": "挣", "pinyins": ["zheng1", "zheng4"]}
+{"char": "挨", "pinyins": ["ai1", "ai2"]}
+{"char": "捋", "pinyins": ["luo1", "lv3"]}
+{"char": "据", "pinyins": ["ju4", "ju1"]}
+{"char": "掖", "pinyins": ["ye4", "ye1"]}
+{"char": "掺", "pinyins": ["chan1", "shan1"]}
+{"char": "揣", "pinyins": ["chuai1", "chuai3"]}
+{"char": "搁", "pinyins": ["ge1"]}
+{"char": "搂", "pinyins": ["lou3", "lou1"]}
+{"char": "撇", "pinyins": ["pie1", "pie3"]}
+{"char": "撒", "pinyins": ["sa1", "sa3"]}
+{"char": "撩", "pinyins": ["liao1", "liao2"]}
+{"char": "撮", "pinyins": ["cuo1", "zuo3"]}
+{"char": "擂", "pinyins": ["lei2", "lei4"]}
+{"char": "攒", "pinyins": ["cuan2", "zan3"]}
+{"char": "教", "pinyins": ["jiao4", "jiao1"]}
+{"char": "散", "pinyins": ["san3", "san4"]}
+{"char": "数", "pinyins": ["shu4", "shu3"]}
+{"char": "斗", "pinyins": ["dou3", "dou4"]}
+{"char": "旋", "pinyins": ["xuan2", "xuan4"]}
+{"char": "晃", "pinyins": ["huang4", "huang3"]}
+{"char": "晕", "pinyins": ["yun1", "yun4"]}
+{"char": "晟", "pinyins": ["sheng4"]}
+{"char": "曲", "pinyins": ["qu1", "qu3"]}
+{"char": "更", "pinyins": ["geng1", "geng4"]}
+{"char": "曾", "pinyins": ["ceng2", "zeng1"]}
+{"char": "服", "pinyins": ["fu2", "fu4"]}
+{"char": "朝", "pinyins": ["chao2", "zhu1"]}
+{"char": "朮", "pinyins": ["shu4", "zhu2"]}
+{"char": "术", "pinyins": ["shu4", "chu4"]}
+{"char": "朴", "pinyins": ["piao2", "pu3", "po4"]}
+{"char": "杆", "pinyins": ["gan1", "gan3"]}
+{"char": "杈", "pinyins": ["cha4", "cha1"]}
+{"char": "杓", "pinyins": ["shao2", "biao1"]}
+{"char": "杻", "pinyins": ["niu3"]}
+{"char": "枸", "pinyins": ["gou3", "ju3"]}
+{"char": "柏", "pinyins": ["bai3", "bo2"]}
+{"char": "柜", "pinyins": ["gui4"]}
+{"char": "查", "pinyins": ["cha2", "zha1"]}
+{"char": "校", "pinyins": ["xiao4", "jiao4"]}
+{"char": "桄", "pinyins": ["guang1"]}
+{"char": "桔", "pinyins": ["jie2", "ju2"]}
+{"char": "椎", "pinyins": ["chui2", "zhui1"]}
+{"char": "楂", "pinyins": ["zha1", "cha2"]}
+{"char": "楷", "pinyins": ["kai3", "jie1"]}
+{"char": "槛", "pinyins": ["kan3", "jian4"]}
+{"char": "樘", "pinyins": ["cheng3", "tang2"]}
+{"char": "模", "pinyins": ["mo2", "mu2"]}
+{"char": "横", "pinyins": ["heng2", "heng4"]}
+{"char": "正", "pinyins": ["zheng4", "zheng1"]}
+{"char": "殷", "pinyins": ["yin1", "yin3"]}
+{"char": "毂", "pinyins": ["gu3"]}
+{"char": "氏", "pinyins": ["shi4", "zhi1"]}
+{"char": "氐", "pinyins": ["di1", "di3"]}
+{"char": "氓", "pinyins": ["mang2", "meng2"]}
+{"char": "汗", "pinyins": ["han2", "han4"]}
+{"char": "汤", "pinyins": ["tang1", "dang4"]}
+{"char": "沓", "pinyins": ["ta4", "da2"]}
+{"char": "没", "pinyins": ["mei2", "mo4"]}
+{"char": "沤", "pinyins": ["ou1", "ou4"]}
+{"char": "泊", "pinyins": ["bo2", "po1"]}
+{"char": "泡", "pinyins": ["pao1", "pao4"]}
+{"char": "泥", "pinyins": ["ni2", "ni4"]}
+{"char": "泷", "pinyins": ["long2", "shuang1"]}
+{"char": "浅", "pinyins": ["qian3", "jian4"]}
+{"char": "浆", "pinyins": ["jiang1", "jiang4"]}
+{"char": "济", "pinyins": ["ji4", "ji3"]}
+{"char": "涌", "pinyins": ["chong1", "yong3"]}
+{"char": "涡", "pinyins": ["guo1", "wo1"]}
+{"char": "涨", "pinyins": ["zhang3", "zhang1"]}
+{"char": "淋", "pinyins": ["lin2", "lin4"]}
+{"char": "混", "pinyins": ["hun4", "kun1"]}
+{"char": "渐", "pinyins": ["jian4", "qian2"]}
+{"char": "湮", "pinyins": ["yan1", "yin1"]}
+{"char": "溺", "pinyins": ["ni4", "ruo4"]}
+{"char": "漂", "pinyins": ["piao1", "piao3", "piao4"]}
+{"char": "澄", "pinyins": ["cheng2", "deng1", "deng4"]}
+{"char": "澹", "pinyins": ["dan4", "tan2"]}
+{"char": "瀑", "pinyins": ["pu4", "bao4"]}
+{"char": "炅", "pinyins": ["jiong3"]}
+{"char": "炔", "pinyins": ["que1"]}
+{"char": "炮", "pinyins": ["pao4"]}
+{"char": "炸", "pinyins": ["zha2", "zha4"]}
+{"char": "焌", "pinyins": ["jun4"]}
+{"char": "煞", "pinyins": ["sha4", "sha1"]}
+{"char": "熨", "pinyins": ["yun4", "yu4"]}
+{"char": "熬", "pinyins": ["ao2", "ao1"]}
+{"char": "燎", "pinyins": ["liao2", "liao3"]}
+{"char": "燕", "pinyins": ["yan1", "yan4"]}
+{"char": "爪", "pinyins": ["zhao3", "zhua3"]}
+{"char": "片", "pinyins": ["pian4", "pan4"]}
+{"char": "牟", "pinyins": ["mou2", "mu4"]}
+{"char": "率", "pinyins": ["lv4", "shuai4"]}
+{"char": "玟", "pinyins": ["wen2"]}
+{"char": "琢", "pinyins": ["zhuo2", "zuo2"]}
+{"char": "瑱", "pinyins": ["tian4", "zhen4"]}
+{"char": "甚", "pinyins": ["shen4", "shen2"]}
+{"char": "町", "pinyins": ["ting3", "ding1"]}
+{"char": "畜", "pinyins": ["chu4", "xu4"]}
+{"char": "番", "pinyins": ["fan1", "pan1"]}
+{"char": "疟", "pinyins": ["nve4", "yao4"]}
+{"char": "疸", "pinyins": ["dan3"]}
+{"char": "症", "pinyins": ["zheng4", "zheng1"]}
+{"char": "的", "pinyins": ["de5", "di2"]}
+{"char": "监", "pinyins": ["jian1", "jian4"]}
+{"char": "盖", "pinyins": ["gai4", "ge3"]}
+{"char": "盛", "pinyins": ["sheng4", "cheng2"]}
+{"char": "相", "pinyins": ["xiang1", "xiang4"]}
+{"char": "省", "pinyins": ["sheng3", "xing3"]}
+{"char": "看", "pinyins": ["kan4", "kan1"]}
+{"char": "眯", "pinyins": ["mi1"]}
+{"char": "着", "pinyins": ["zhe5", "zhuo2", "zhao2"]}
+{"char": "矫", "pinyins": ["jiao3", "jiao2"]}
+{"char": "石", "pinyins": ["shi2", "dan4"]}
+{"char": "碌", "pinyins": ["lu4"]}
+{"char": "磨", "pinyins": ["mo2", "mo4"]}
+{"char": "祭", "pinyins": ["ji4", "zhai4"]}
+{"char": "禁", "pinyins": ["jin4", "jin1"]}
+{"char": "禅", "pinyins": ["chan2", "shan4"]}
+{"char": "禺", "pinyins": ["yu2", "ou3"]}
+{"char": "种", "pinyins": ["zhong3", "chong2"]}
+{"char": "秘", "pinyins": ["bi4", "mi4"]}
+{"char": "称", "pinyins": ["cheng1", "chen4"]}
+{"char": "稍", "pinyins": ["shao1"]}
+{"char": "稽", "pinyins": ["ji1", "qi3"]}
+{"char": "空", "pinyins": ["kong1", "kong4"]}
+{"char": "窨", "pinyins": ["yin4", "xun1"]}
+{"char": "笼", "pinyins": ["long2", "long3"]}
+{"char": "答", "pinyins": ["da1", "da2"]}
+{"char": "簸", "pinyins": ["bo3", "bo4"]}
+{"char": "粘", "pinyins": ["nian2", "zhan1"]}
+{"char": "粥", "pinyins": ["zhou1", "yu4"]}
+{"char": "糊", "pinyins": ["hu2", "hu4"]}
+{"char": "糜", "pinyins": ["mi2", "mei2"]}
+{"char": "系", "pinyins": ["xi4", "ji4"]}
+{"char": "累", "pinyins": ["lei2", "lei3", "lei4"]}
+{"char": "絜", "pinyins": ["jie2", "xie2"]}
+{"char": "繇", "pinyins": ["yao2", "zhou4"]}
+{"char": "纤", "pinyins": ["xian1", "qian4"]}
+{"char": "纥", "pinyins": ["he2"]}
+{"char": "约", "pinyins": ["yue1", "yao4"]}
+{"char": "纪", "pinyins": ["ji4", "ji3"]}
+{"char": "结", "pinyins": ["jie2", "ji4"]}
+{"char": "给", "pinyins": ["gei3", "ji3"]}
+{"char": "络", "pinyins": ["luo4", "lao4"]}
+{"char": "绰", "pinyins": ["chuo4", "chao1"]}
+{"char": "绷", "pinyins": ["beng1", "beng3"]}
+{"char": "综", "pinyins": ["zong1", "zeng4"]}
+{"char": "缉", "pinyins": ["ji1", "qi1"]}
+{"char": "缊", "pinyins": ["yun4", "yun1"]}
+{"char": "缝", "pinyins": ["feng2", "feng4"]}
+{"char": "缪", "pinyins": ["miao4", "miu4", "mou2"]}
+{"char": "缯", "pinyins": ["zeng1", "zeng4"]}
+{"char": "罢", "pinyins": ["ba4", "pi2"]}
+{"char": "翘", "pinyins": ["qiao2", "qiao4"]}
+{"char": "翟", "pinyins": ["zhai2", "di2"]}
+{"char": "耙", "pinyins": ["pa2", "ba4"]}
+{"char": "耶", "pinyins": ["ye1", "ye2"]}
+{"char": "肖", "pinyins": ["xiao1", "xiao4"]}
+{"char": "肚", "pinyins": ["du3", "du4"]}
+{"char": "背", "pinyins": ["bei4", "bei1"]}
+{"char": "胖", "pinyins": ["pang4", "pan2"]}
+{"char": "脉", "pinyins": ["mai4", "mo4"]}
+{"char": "脏", "pinyins": ["zang4", "zang1"]}
+{"char": "脚", "pinyins": ["jiao3"]}
+{"char": "脯", "pinyins": ["fu3", "pu2"]}
+{"char": "腊", "pinyins": ["la4", "xi1"]}
+{"char": "膀", "pinyins": ["bang3", "pang2"]}
+{"char": "膏", "pinyins": ["gao1", "gao4"]}
+{"char": "臊", "pinyins": ["sao1", "sao4"]}
+{"char": "臭", "pinyins": ["chou4", "xiu4"]}
+{"char": "舍", "pinyins": ["she3", "she4"]}
+{"char": "般", "pinyins": ["ban1", "pan2"]}
+{"char": "艮", "pinyins": ["gen4", "gen3"]}
+{"char": "色", "pinyins": ["se4"]}
+{"char": "艾", "pinyins": ["ai4", "yi4"]}
+{"char": "节", "pinyins": ["jie2", "jie1"]}
+{"char": "芍", "pinyins": ["que4"]}
+{"char": "芥", "pinyins": ["jie4", "gai4"]}
+{"char": "芯", "pinyins": ["xin1", "xin4"]}
+{"char": "芾", "pinyins": ["fei4", "fu2"]}
+{"char": "苔", "pinyins": ["tai2", "tai1"]}
+{"char": "苕", "pinyins": ["tiao2", "shao2"]}
+{"char": "茄", "pinyins": ["qie2", "jia1"]}
+{"char": "茜", "pinyins": ["qian4", "xi1"]}
+{"char": "荑", "pinyins": ["ti2", "yi2"]}
+{"char": "荠", "pinyins": ["qi2", "ji4"]}
+{"char": "荷", "pinyins": ["he2", "he4"]}
+{"char": "莎", "pinyins": ["sha1", "suo1"]}
+{"char": "莘", "pinyins": ["shen1", "xin1"]}
+{"char": "莞", "pinyins": ["guan3", "wan3", "guan1"]}
+{"char": "莳", "pinyins": ["shi4", "shi2"]}
+{"char": "菌", "pinyins": ["jun1"]}
+{"char": "菲", "pinyins": ["fei1", "fei3"]}
+{"char": "落", "pinyins": ["luo4", "la4"]}
+{"char": "葛", "pinyins": ["ge2", "ge3"]}
+{"char": "蒙", "pinyins": ["meng2", "meng3"]}
+{"char": "蓼", "pinyins": ["liao3"]}
+{"char": "蔓", "pinyins": ["man2", "man4"]}
+{"char": "蔚", "pinyins": ["wei4", "yu4"]}
+{"char": "蕃", "pinyins": ["bo1", "fan1"]}
+{"char": "蕉", "pinyins": ["jiao1"]}
+{"char": "薄", "pinyins": ["bao2", "bo2", "bo4"]}
+{"char": "藉", "pinyins": ["ji2", "jie4"]}
+{"char": "藏", "pinyins": ["cang2", "zang4"]}
+{"char": "虾", "pinyins": ["xia1", "ha2"]}
+{"char": "蚂", "pinyins": ["ma3", "ma4", "ma1"]}
+{"char": "蚌", "pinyins": ["bang4", "beng4"]}
+{"char": "蛤", "pinyins": ["ge2", "ha2"]}
+{"char": "蜇", "pinyins": ["zhe1", "zhe2"]}
+{"char": "蠡", "pinyins": ["li2", "li3"]}
+{"char": "行", "pinyins": ["hang2", "xing2"]}
+{"char": "衰", "pinyins": ["shuai1", "cui1"]}
+{"char": "裨", "pinyins": ["bi4", "pi2"]}
+{"char": "褚", "pinyins": ["chu3", "zhu3"]}
+{"char": "褪", "pinyins": ["tui4", "tun4"]}
+{"char": "要", "pinyins": ["yao1", "yao4"]}
+{"char": "覃", "pinyins": ["qin2", "tan2"]}
+{"char": "见", "pinyins": ["jian4", "xian4"]}
+{"char": "观", "pinyins": ["guan1", "guan4"]}
+{"char": "觉", "pinyins": ["jue2", "jiao4"]}
+{"char": "角", "pinyins": ["jiao3", "jue2"]}
+{"char": "觜", "pinyins": ["zi1", "zui3"]}
+{"char": "解", "pinyins": ["jie3", "jie4"]}
+{"char": "訾", "pinyins": ["zi1"]}
+{"char": "论", "pinyins": ["lun4", "lun1"]}
+{"char": "识", "pinyins": ["shi2", "zhi4"]}
+{"char": "语", "pinyins": ["yu3", "yu4"]}
+{"char": "说", "pinyins": ["shuo1", "shui4"]}
+{"char": "读", "pinyins": ["du2", "dou4"]}
+{"char": "调", "pinyins": ["diao4", "tiao2"]}
+{"char": "谜", "pinyins": ["mi2"]}
+{"char": "谩", "pinyins": ["man4"]}
+{"char": "谯", "pinyins": ["qiao2"]}
+{"char": "豁", "pinyins": ["huo1", "huo4"]}
+{"char": "貉", "pinyins": ["mo4"]}
+{"char": "贲", "pinyins": ["ben1", "fen2"]}
+{"char": "贾", "pinyins": ["gu3", "jia3"]}
+{"char": "赚", "pinyins": ["zhuan4", "zuan4"]}
+{"char": "趟", "pinyins": ["tang4", "tang1"]}
+{"char": "跂", "pinyins": ["qi3", "qi4"]}
+{"char": "跑", "pinyins": ["pao2", "pao3"]}
+{"char": "踏", "pinyins": ["ta4", "ta1"]}
+{"char": "蹶", "pinyins": ["jue2"]}
+{"char": "车", "pinyins": ["che1", "ju1"]}
+{"char": "轧", "pinyins": ["ya4", "zha2", "ga2"]}
+{"char": "转", "pinyins": ["zhuan3", "zhuan4"]}
+{"char": "轲", "pinyins": ["ke1"]}
+{"char": "轴", "pinyins": ["zhou2", "zhou4"]}
+{"char": "载", "pinyins": ["zai3", "zai4"]}
+{"char": "辟", "pinyins": ["bi4", "pi4"]}
+{"char": "边", "pinyins": ["bian1", "bian5"]}
+{"char": "过", "pinyins": ["guo4", "guo5"]}
+{"char": "还", "pinyins": ["hai2", "huan2"]}
+{"char": "迤", "pinyins": ["yi2", "yi3"]}
+{"char": "适", "pinyins": ["shi4", "ti4"]}
+{"char": "通", "pinyins": ["tong1"]}
+{"char": "逮", "pinyins": ["dai4", "dai3"]}
+{"char": "那", "pinyins": ["na4", "nuo2"]}
+{"char": "都", "pinyins": ["dou1", "du1"]}
+{"char": "酊", "pinyins": ["ding1", "ding3"]}
+{"char": "酢", "pinyins": ["cu4", "zuo4"]}
+{"char": "采", "pinyins": ["cai3", "cai4"]}
+{"char": "重", "pinyins": ["chong2", "zhong4"]}
+{"char": "量", "pinyins": ["liang2", "liang4"]}
+{"char": "钉", "pinyins": ["ding1", "ding4"]}
+{"char": "钌", "pinyins": ["liao3"]}
+{"char": "钯", "pinyins": ["ba3"]}
+{"char": "钻", "pinyins": ["zuan1", "zuan4"]}
+{"char": "钿", "pinyins": ["dian4", "tian2"]}
+{"char": "铛", "pinyins": ["cheng1", "dang1"]}
+{"char": "铣", "pinyins": ["xi3", "xian3"]}
+{"char": "铤", "pinyins": ["ding4", "ting3"]}
+{"char": "铫", "pinyins": ["yao2", "qiao1"]}
+{"char": "铺", "pinyins": ["pu1", "pu4"]}
+{"char": "锔", "pinyins": ["ju2"]}
+{"char": "锯", "pinyins": ["ju4"]}
+{"char": "镐", "pinyins": ["gao3", "hao4"]}
+{"char": "镝", "pinyins": ["di1", "di2"]}
+{"char": "镡", "pinyins": ["tan2"]}
+{"char": "长", "pinyins": ["chang2", "zhang3"]}
+{"char": "间", "pinyins": ["jian1", "jian4"]}
+{"char": "闷", "pinyins": ["men1", "men4"]}
+{"char": "阆", "pinyins": ["lang2", "lang4"]}
+{"char": "阇", "pinyins": ["du1"]}
+{"char": "阏", "pinyins": ["yan1", "e4"]}
+{"char": "阙", "pinyins": ["que1", "que4"]}
+{"char": "阿", "pinyins": ["a1", "a4"]}
+{"char": "陂", "pinyins": ["bei1", "pi2"]}
+{"char": "陆", "pinyins": ["lu4"]}
+{"char": "降", "pinyins": ["jiang4", "xiang2"]}
+{"char": "隆", "pinyins": ["long2"]}
+{"char": "隗", "pinyins": ["wei3"]}
+{"char": "隽", "pinyins": ["juan4", "jun4"]}
+{"char": "难", "pinyins": ["nan2", "nan4"]}
+{"char": "雀", "pinyins": ["que4"]}
+{"char": "雨", "pinyins": ["yu3", "yu4"]}
+{"char": "露", "pinyins": ["lou4", "lu4"]}
+{"char": "靓", "pinyins": ["liang4"]}
+{"char": "靡", "pinyins": ["mi2", "mi3"]}
+{"char": "颉", "pinyins": ["jie2", "xie2"]}
+{"char": "颏", "pinyins": ["ke1", "ke2"]}
+{"char": "饮", "pinyins": ["yin3", "yin4"]}
+{"char": "馏", "pinyins": ["liu2", "liu4"]}
+{"char": "馕", "pinyins": ["nang2"]}
+{"char": "驮", "pinyins": ["tuo2"]}
+{"char": "鬲", "pinyins": ["li4", "ge2"]}
+{"char": "鲜", "pinyins": ["xian1", "xian3"]}
+{"char": "鸟", "pinyins": ["niao3"]}
+{"char": "鹄", "pinyins": ["hu2"]}
+{"char": "龈", "pinyins": ["yin2", "ken3"]}

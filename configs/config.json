@@ -1,0 +1,54 @@
+{
+  "model": {
+    "base_model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "max_length": 768,
+    "torch_dtype": "bfloat16"
+  },
+  "sft": {
+    "learning_rate": 5e-05,
+    "batch_size": 2,
+    "gradient_accumulation_steps": 8,
+    "num_epochs": 1,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "v_proj"
+    ],
+    "output_dir": "runs/sft_lora"
+  },
+  "memory": {
+    "kg_path": "resources/active_kg_540.jsonl",
+    "candidate_path": "resources/active_new540.jsonl",
+    "entropy_threshold": 0.3,
+    "support_count_threshold": 50,
+    "reliability_threshold": 0.7,
+    "experience_pool_dir": "runs/uger_experience_pool",
+    "hint_templates_dir": "runs/hint_templates"
+  },
+  "rl": {
+    "learning_rate": 1e-05,
+    "group_size": 8,
+    "num_epochs": 3,
+    "beta": 0.04,
+    "reward_weights": {
+      "strict_json": 1.0,
+      "canonical_format": 1.0,
+      "candidate_legal": 1.5,
+      "exact_match": 10.0,
+      "extra_text_penalty": -0.3
+    },
+    "output_dir": "runs/rl_grpo"
+  },
+  "data": {
+    "train_file": "resources/train_同字异音.jsonl",
+    "train_rl_file": "resources/train_rl_同字异音.jsonl",
+    "same_char_mixed": "resources/train_同字异音.jsonl",
+    "test_files": {
+      "test_same_char": "resources/test_同字异音.jsonl",
+      "ancient_new540": "resources/ancient_new540.jsonl",
+      "modern_single": "resources/modern_single.jsonl"
+    }
+  }
+}
